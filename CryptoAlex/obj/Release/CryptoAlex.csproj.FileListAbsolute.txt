@@ -1,0 +1,36 @@
+c:\users\student\documents\visual studio 2013\Projects\CryptoAlex\CryptoAlex\bin\Release\CryptoAlex.exe.config
+c:\users\student\documents\visual studio 2013\Projects\CryptoAlex\CryptoAlex\bin\Release\CryptoAlex.exe
+c:\users\student\documents\visual studio 2013\Projects\CryptoAlex\CryptoAlex\bin\Release\CryptoAlex.pdb
+c:\users\student\documents\visual studio 2013\Projects\CryptoAlex\CryptoAlex\obj\Release\CryptoAlex.Form1.resources
+c:\users\student\documents\visual studio 2013\Projects\CryptoAlex\CryptoAlex\obj\Release\CryptoAlex.Properties.Resources.resources
+c:\users\student\documents\visual studio 2013\Projects\CryptoAlex\CryptoAlex\obj\Release\CryptoAlex.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2013\Projects\CryptoAlex\CryptoAlex\obj\Release\CryptoAlex.exe
+c:\users\student\documents\visual studio 2013\Projects\CryptoAlex\CryptoAlex\obj\Release\CryptoAlex.pdb
+I:\__\4 курс\Защита информации\CryptoAlex\CryptoAlex\bin\Release\CryptoAlex.exe.config
+I:\__\4 курс\Защита информации\CryptoAlex\CryptoAlex\obj\Release\CryptoAlex.exe
+I:\__\4 курс\Защита информации\CryptoAlex\CryptoAlex\obj\Release\CryptoAlex.pdb
+I:\__\4 курс\Защита информации\CryptoAlex\CryptoAlex\bin\Release\CryptoAlex.exe
+I:\__\4 курс\Защита информации\CryptoAlex\CryptoAlex\bin\Release\CryptoAlex.pdb
+I:\__\4 курс\Защита информации\CryptoAlex\CryptoAlex\obj\Release\CryptoAlex.Form1.resources
+I:\__\4 курс\Защита информации\CryptoAlex\CryptoAlex\obj\Release\CryptoAlex.Properties.Resources.resources
+I:\__\4 курс\Защита информации\CryptoAlex\CryptoAlex\obj\Release\CryptoAlex.csproj.GenerateResource.Cache
+C:\Users\Alexey\Desktop\Университет\4 курс\Защита информации\CryptoAlex\CryptoAlex\bin\Release\CryptoAlex.exe.config
+C:\Users\Alexey\Desktop\Университет\4 курс\Защита информации\CryptoAlex\CryptoAlex\bin\Release\CryptoAlex.exe
+C:\Users\Alexey\Desktop\Университет\4 курс\Защита информации\CryptoAlex\CryptoAlex\bin\Release\CryptoAlex.pdb
+C:\Users\Alexey\Desktop\Университет\4 курс\Защита информации\CryptoAlex\CryptoAlex\obj\Release\CryptoAlex.csprojAssemblyReference.cache
+C:\Users\Alexey\Desktop\Университет\4 курс\Защита информации\CryptoAlex\CryptoAlex\obj\Release\CryptoAlex.Form1.resources
+C:\Users\Alexey\Desktop\Университет\4 курс\Защита информации\CryptoAlex\CryptoAlex\obj\Release\CryptoAlex.Properties.Resources.resources
+C:\Users\Alexey\Desktop\Университет\4 курс\Защита информации\CryptoAlex\CryptoAlex\obj\Release\CryptoAlex.csproj.GenerateResource.cache
+C:\Users\Alexey\Desktop\Университет\4 курс\Защита информации\CryptoAlex\CryptoAlex\obj\Release\CryptoAlex.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\Desktop\Университет\4 курс\Защита информации\CryptoAlex\CryptoAlex\obj\Release\CryptoAlex.exe
+C:\Users\Alexey\Desktop\Университет\4 курс\Защита информации\CryptoAlex\CryptoAlex\obj\Release\CryptoAlex.pdb
+D:\kripo\CryptoAlex\CryptoAlex\bin\Release\CryptoAlex.exe.config
+D:\kripo\CryptoAlex\CryptoAlex\bin\Release\CryptoAlex.exe
+D:\kripo\CryptoAlex\CryptoAlex\bin\Release\CryptoAlex.pdb
+D:\kripo\CryptoAlex\CryptoAlex\obj\Release\CryptoAlex.csprojAssemblyReference.cache
+D:\kripo\CryptoAlex\CryptoAlex\obj\Release\CryptoAlex.Form1.resources
+D:\kripo\CryptoAlex\CryptoAlex\obj\Release\CryptoAlex.Properties.Resources.resources
+D:\kripo\CryptoAlex\CryptoAlex\obj\Release\CryptoAlex.csproj.GenerateResource.cache
+D:\kripo\CryptoAlex\CryptoAlex\obj\Release\CryptoAlex.csproj.CoreCompileInputs.cache
+D:\kripo\CryptoAlex\CryptoAlex\obj\Release\CryptoAlex.exe
+D:\kripo\CryptoAlex\CryptoAlex\obj\Release\CryptoAlex.pdb
